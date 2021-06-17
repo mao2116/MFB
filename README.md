@@ -47,7 +47,7 @@
 
 ## FOR RUN TOOL :
 * `cd MFB`
-* `python mfb.py`
+* `python MFB.MAO`
 
 
 
