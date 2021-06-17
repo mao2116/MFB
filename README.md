@@ -46,7 +46,7 @@
 
 
 ## FOR RUN TOOL :
-* `cd M404`
+* `cd MFB`
 * `python mfb.py`
 
 
